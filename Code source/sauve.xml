@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.16" class="java.beans.XMLDecoder">
+ <object class="Puce6">
+  <void property="nom">
+   <string>pupuce</string>
+  </void>
+  <void property="nombrePattes">
+   <int>6</int>
+  </void>
+ </object>
+</java>
